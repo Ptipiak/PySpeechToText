@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/raphael/.local/share/virtualenvs/PySPeechToTest-SJhp6i84/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
