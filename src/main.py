@@ -14,7 +14,7 @@ log = logging.getLogger("root")
 
 if __name__ == "__main__":
                  
-    audio_file = path.join(ROOT_DIR, 'ressources/test_audio_en.wav')
+    audio_file = path.join(ROOT_DIR, 'ressources/test_audio_fr.wav')
     result = None
 
     log.debug('Audio file: ' + audio_file)
